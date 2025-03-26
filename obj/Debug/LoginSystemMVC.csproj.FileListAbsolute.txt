@@ -1,0 +1,10 @@
+C:\Users\Usuário\source\repos\LoginSystemMVC\LoginSystemMVC\bin\Debug\LoginSystemMVC.exe.config
+C:\Users\Usuário\source\repos\LoginSystemMVC\LoginSystemMVC\bin\Debug\LoginSystemMVC.exe
+C:\Users\Usuário\source\repos\LoginSystemMVC\LoginSystemMVC\bin\Debug\LoginSystemMVC.pdb
+C:\Users\Usuário\source\repos\LoginSystemMVC\LoginSystemMVC\obj\Debug\LoginSystemMVC.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\LoginSystemMVC\LoginSystemMVC\obj\Debug\LoginSystemMVC.Properties.Resources.resources
+C:\Users\Usuário\source\repos\LoginSystemMVC\LoginSystemMVC\obj\Debug\LoginSystemMVC.LoginForm.resources
+C:\Users\Usuário\source\repos\LoginSystemMVC\LoginSystemMVC\obj\Debug\LoginSystemMVC.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\LoginSystemMVC\LoginSystemMVC\obj\Debug\LoginSystemMVC.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\LoginSystemMVC\LoginSystemMVC\obj\Debug\LoginSystemMVC.exe
+C:\Users\Usuário\source\repos\LoginSystemMVC\LoginSystemMVC\obj\Debug\LoginSystemMVC.pdb
